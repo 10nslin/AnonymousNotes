@@ -1,0 +1,16 @@
+{
+  "name": "annonymousnotes",
+  "version": "1.0.0",
+  "description": "server.js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Scott Enslin",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3",
+    "moment": "^2.22.0",
+    "mongoose": "^5.0.12"
+  }
+}
